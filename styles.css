@@ -1,0 +1,7 @@
+body {
+    background-image: url('./assets/adobe1.jpeg');
+    background-size: cover; /* You can adjust this based on your preference */
+    background-position: center; /* You can adjust this based on your preference */
+    background-repeat: no-repeat;
+}
+
